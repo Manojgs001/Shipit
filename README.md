@@ -1,10 +1,10 @@
 # ShipIt Conf 2026 🚢
 
-This is a responsive landing page I built using HTML,CSS,Javascript for a fictional developer conference.
+This is a responsive landing page I built using HTML, CSS, and JavaScript for a fictional developer conference.
 
-I wanted to challenge myself to build a complex layout **without using any frameworks** like React, Bootstrap, or Tailwind. The goal was to rely 100% on semantic HTML and modern CSS.
+I wanted to challenge myself to build a complex layout without using any frameworks, such as React, Bootstrap, or Tailwind. The goal was to rely 100% on semantic HTML and modern CSS.
 
-**Live Demo:** 
+Live Demo:https://manojgs001.github.io/Shipit/
 
 ## 💡 Why I built this
 I've been learning about **CSS Grid** and **Accessibility**, and I wanted to put it into practice. I specifically wanted to try the "Checkbox Hack"—controlling the page state (filtering and sorting) using only CSS and hidden radio buttons, with zero JavaScript for the UI logic.
